@@ -1,6 +1,6 @@
-### Hi there 👋 --- Welcome to my Page
+### Hi there 👋 --- Welcome to my Page @giga-97
 
-- 👋 Hi, I’m Ahmed Wagih Ammar known as Giga @giga-97
+- 👋 Hi, I’m Ahmed Wagih Ammar known as Giga 
 - 👀 I’m interested in IT Automation, Cloud Technologies and Software Development
 - 🌱 I’m currently learning Software Development
 - 📫 Feel free to drop a message using my LinkedIn: https://www.linkedin.com/in/a7mdammar/
