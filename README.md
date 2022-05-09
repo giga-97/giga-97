@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there 👋 --- Welcome to my Page
 
+- 👋 Hi, I’m Ahmed Wagih Ammar known as Giga @giga-97
+- 👀 I’m interested in IT Automation, Cloud Technologies and Software Development
+- 🌱 I’m currently learning Software Development
+- 📫 Feel free to drop a message using my LinkedIn: https://www.linkedin.com/in/a7mdammar/
+- ⚡ Fun fact: I am a quick learner and I love to learn new things!
+
+<!---
+giga-97/giga-97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 <!--
 **giga-97/giga-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
